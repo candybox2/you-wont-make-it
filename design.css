@@ -1,0 +1,33 @@
+body{
+    background-color: #FFFFFF;
+}
+
+#container{
+    position: absolute;
+    height: 500px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #DDDDDD;
+    overflow: hidden;
+}
+
+#text{
+    position: absolute;
+    top: 500px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-family: monospace;
+}
+
+#gameTitle{
+    text-align: center;
+    font-size: 32px;
+}
+
+#textBelowTitle{
+    text-align: center;
+    font-size: 15px;
+}
